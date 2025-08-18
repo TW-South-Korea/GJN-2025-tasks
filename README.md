@@ -5,7 +5,7 @@ This repository contains a mobile-friendly, collapsible task list for your upcom
 ## ✅ Live Site
 
 Once deployed via GitHub Pages, access the guide here:  
-**https://github.com/TW-Thailand/GJN-2025-tasks/**
+**https://tw-thailand.github.io/GJN-2025-tasks/**
 
 ## ✨ Features
 
