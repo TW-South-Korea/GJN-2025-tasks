@@ -1,11 +1,11 @@
-# 📝 Thailand Task List Guide 2025
+# 📝 South Korea Task List 2025
 
 This repository contains a mobile-friendly, collapsible task list for your upcoming Thailand trip in 2025. Each item links directly to booking details, dates, and costs, making it easy to track and manage all travel preparations in one place.
 
 ## ✅ Live Site
 
 Once deployed via GitHub Pages, access the guide here:  
-**https://tw-thailand.github.io/GJN-2025-tasks/**
+**https://tw-south-korea.github.io/GJN-2025-tasks/**
 
 ## ✨ Features
 
