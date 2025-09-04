@@ -109,7 +109,7 @@
     const sameOrigin = url.origin === location.origin && url.pathname.startsWith('/GJN-2025-tasks/');
     if (!sameOrigin && !navigator.onLine) {
       e.preventDefault();
-      alert('You are offline. This link needs an internet connection.');
+      alert('You are offline. Reconnect to get live updates. The app refreshes itself once you’re back online.');
     }
   });
 </script>
